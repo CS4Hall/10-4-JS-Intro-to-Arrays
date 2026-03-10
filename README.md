@@ -1,4 +1,4 @@
-# 11-1-JS-Intro-to-Arrays
+# 10-4-JS-Intro-to-Arrays
 
 ## Video
 
